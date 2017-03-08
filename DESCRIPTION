@@ -1,0 +1,16 @@
+Package: binaryCluster
+Type: Package
+Title: Dirichlet Process Mixture Modelling Of Binary Data
+Version: 1.0
+Date: 2017-03-07
+Author: Paul DW Kirk
+Maintainer: Paul DW Kirk <paul.kirk@email.com>
+Description: Dirichlet process mixture modelling of 
+    binary data, with variable selection
+License: GPL (>= 2)
+LazyData: true
+Imports: Rcpp (>= 0.12.9)
+LinkingTo: Rcpp, RcppArmadillo
+SystemRequirements: C++11
+NeedsCompilation: yes
+Packaged: 2017-02-27 13:57:28 UTC; paulkirk
